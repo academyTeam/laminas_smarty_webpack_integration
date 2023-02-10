@@ -1,6 +1,6 @@
 <?php
 
-namespace AcademyTeam\SmartyWebpackEncore\Extension;
+namespace AcademyTeam\LaminasSmartyWebpack\Extension;
 
 use Laminas\ModuleManager\Feature\ConfigProviderInterface;
 
