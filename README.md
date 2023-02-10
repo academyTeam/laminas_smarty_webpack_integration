@@ -4,8 +4,6 @@ LaminasSmartyWebpackIntegration is a module that integrates the [Smarty Webpack 
 
 ## Installation
 
----
-
 ### Composer
 
 1. Add `"academy-team/laminas_smarty_webpack_integration": "*"` to your `composer.json` file and run `composer update`.
