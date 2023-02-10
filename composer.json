@@ -11,7 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AcademyTeam\\LaminasSmartyWebpack\\Extension\\": "src"
+      "AcademyTeam\\LaminasSmartyWebpack\\Integration\\": "src"
     }
   },
   "minimum-stability": "dev",
