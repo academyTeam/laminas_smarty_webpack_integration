@@ -1,0 +1,24 @@
+{
+
+  "name": "academy-team/laminas_smarty_webpack_integration",
+  "description": "A short description of what your package does",
+  "require": {
+    "php": ">=7.4",
+    "academy-team/smarty_webpack_encore_extension": "*",
+    "laminas/laminas-modulemanager": "^2.0",
+    "maglnet/smarty-module": "^2.0",
+    "smarty/smarty": "^4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "AcademyTeam\\LaminasSmartyWebpack\\Extension\\": "src"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "allow-plugins": {
+      "laminas/laminas-dependency-plugin": true
+    }
+  }
+}
