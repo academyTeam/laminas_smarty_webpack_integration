@@ -1,6 +1,6 @@
 # Welcome to the LaminasSmartyWebpackIntegration for Laminas Framework!
 
-LaminasSmartyWebpackIntegration is a module that integrates the [Smarty Webpack Encore](https://github.com/academyTeam/smarty_webpack_encore_extensions) extension with Laminas.
+LaminasSmartyWebpackIntegration is a module that integrates the [Smarty Webpack Encore](https://github.com/academyTeam/smarty_webpack_encore_extensions) extension into Laminas, using [SmartyModule](https://github.com/maglnet/SmartyModule) to load them. 
 
 ## Installation
 
